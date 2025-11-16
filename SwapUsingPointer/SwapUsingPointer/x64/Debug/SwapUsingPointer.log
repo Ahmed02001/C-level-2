@@ -1,0 +1,3 @@
+﻿  SwapUsingPointer.cpp
+D:\C++ foundemantals\C++Level2\SwapUsingPointer\SwapUsingPointer\SwapUsingPointer.cpp(85,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SwapUsingPointer.vcxproj -> D:\C++ foundemantals\C++Level2\SwapUsingPointer\x64\Debug\SwapUsingPointer.exe
